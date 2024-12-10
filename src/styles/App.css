@@ -1,0 +1,10 @@
+.application-layout {
+  padding: 36px;
+}
+
+.search-input {
+  display: block;
+  width: 300px;
+  margin-top: 4px;
+  margin-bottom: 16px;
+}
